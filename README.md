@@ -1,1 +1,3 @@
-First TS homework for GOIT course.
+# TypeScript
+
+First TS homework for GoIT course.
